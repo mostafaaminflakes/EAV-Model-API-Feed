@@ -56,4 +56,4 @@ Fetch and import third party API products and variations with no repetitions int
 
 While creating this project, the following ideas were R&D:
 
--   Introduced and implemented Entity-Attribute-Value model (EAV) for modern e-commerce products and variations.
+-   Introduced and implemented [Entity-Attribute-Value model (EAV)](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) for modern e-commerce products and variations.
