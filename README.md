@@ -1,6 +1,6 @@
 ## Overview
 
-Import third party API products with variations into database using EAV models with no repetitions.
+Fetch and import third party API products and variations with no repetitions into database and implementing Entity-Attribute-Value (EAV) model.
 
 ## System Requirements
 
@@ -15,14 +15,15 @@ Import third party API products with variations into database using EAV models w
 -   Commands
 -   Chunking
 -   Upserts
+-   Data Validation
 
 ## Usage
 
 -   Clone the repository.
 
     ```
-    $ git clone https://github.com/SallaChallenges/Laravel-Challange-mostafaaminflakes-7091.git
-    $ cd Laravel-Challange-mostafaaminflakes-7091/src
+    $ git clone https://github.com/mostafaaminflakes/EAV-Model-API-Feed.git
+    $ cd EAV-Model-API-Feed
     $ composesr install
     ```
 
