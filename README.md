@@ -37,7 +37,7 @@ Fetch and import third party API products and variations with no repetitions int
 -   Serve.
 
     ```
-    php artisan serve
+    $ php artisan serve
     ```
 
 -   Queue.
